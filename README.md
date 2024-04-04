@@ -5,7 +5,6 @@ This repository contains a collection of cryptography scripts implemented in Pyt
 
 
 
-
 ### 1. ASCII Text Decode
 **Description:** Decodes ASCII-encoded text.
 
@@ -50,8 +49,6 @@ This repository contains a collection of cryptography scripts implemented in Pyt
 **Description:** Encrypts and decrypts text using a substitution cipher.
 
 **Usage:** `python substitution_cipher.py`
-
-Certainly! Here's a description you can use for your cryptography scripts repository:
 
 ---
 
