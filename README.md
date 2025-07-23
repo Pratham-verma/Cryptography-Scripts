@@ -50,6 +50,11 @@ This repository contains a collection of cryptography scripts implemented in Pyt
 
 **Usage:** `python substitution_cipher.py`
 
+### 10.Ceasear Cipher
+**Description:** Encrypts and decrypts text using the Caesar cipher.
+
+**Usage:** `python caesar_cipher.py`
+
 ---
 
 ## How to Use:
